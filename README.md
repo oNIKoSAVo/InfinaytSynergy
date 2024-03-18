@@ -3,11 +3,13 @@
 #######################################
 
 git clone https://github.com/oNIKoSAVo/InfinaytSynergy.git
+
 cd InfinaytSynergy
 
 # Create data.json file
 
 node generate.js 
+
 npm start
 
 #######################################
